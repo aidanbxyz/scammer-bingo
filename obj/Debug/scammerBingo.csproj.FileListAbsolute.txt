@@ -1,0 +1,10 @@
+C:\Users\biggs\source\repos\scammerBingo\bin\Debug\scammerBingo.exe.config
+C:\Users\biggs\source\repos\scammerBingo\bin\Debug\scammerBingo.exe
+C:\Users\biggs\source\repos\scammerBingo\bin\Debug\scammerBingo.pdb
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.csprojAssemblyReference.cache
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.scammerBingoMain.resources
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.Properties.Resources.resources
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.csproj.GenerateResource.cache
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.csproj.CoreCompileInputs.cache
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.exe
+C:\Users\biggs\source\repos\scammerBingo\obj\Debug\scammerBingo.pdb
